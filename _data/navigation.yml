@@ -1,0 +1,14 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Trainings"
+    url: /trainings/
+  - title: "Events"
+    url: /events/
+  - title: "Newcomer"
+    url: /newcomer/
+  - title: "Contact"
+    url: /contact/
+  
+  
+  
