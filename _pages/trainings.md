@@ -39,17 +39,47 @@ All of the above activities are we call softskills. They are the way we essentia
 
 (https://uclouvain.be/fr/secteurs/sss/repartition-des-60-credits-de-formation-doctorale.html).  
 
-# Reach out! 
-
-Do you have any questions? Suggestions? Or do you just want to share your enthusiasm about Skill Up? Don’t hesitate to contact us!   
-
 # Training organisations  
 
-- CIO (center of information and orientation) 
-- SMCS 
-- Human resources administration 
-- Louvain learning lab 
-- Libraries of UCLouvain  
+**Disclaimer**: all the organisations detailed below have multiple missions and ways to support researchers. Here, we are going to focus mostly in their trainings organisations.   
+
+[CIO](https://uclouvain.be/fr/etudier/cio) (Centre of Information and Orientation): is part of the teaching and Training Department Administration of UCLouvain. It is not restricted to PhD students but is open to all study levels from high school students, future graduates, PhD holders etc. Among some of CIO missions are to provide career support for students at any study level, inform and bring awareness to the possibility of study and career choices. One of the ways to achieve these objectives are the organisation of trainings such as: how to write a cover letter, CV, understand the recruiter’s perspective etc.  
+
+[SMCS](https://uclouvain.be/en/research-institutes/lidam/smcs.html) (Statistical Methodology and Computing Service): aims to support researchers in their projects from a statistical point of view. They offer training courses on different programming languages (R, Python..) …), statistical methods (data visualisation, data analysis,..). They also provide consulting services: you have a question about your analysis? You want to perform a highthroughput experiment and have questions about your design? Don’t hesitate to contact them! 
+
+Human resources administration: organise regularly trainings that target organisation, communication and management skills. PhD students are members of the UCLouvain staff so you are more than welcome to participate!  
+
+[Louvain Learning Lab](https://uclouvain.be/en/study/lll): is dedicated to professors and teaching assistants who wish to develop great teaching methods to animate their course (in person or virtual courses), mentoring through their practical courses etc.   
+
+[Libraries of UCLouvain](https://uclouvain.be/fr/bibliotheques): offer trainings regarding motor search engines, publishing in open access, reference management tools.  
+
+# In practice: Valodoc 
+
+You can access all trainings offered by UCLouvain from the [Valodoc website](https://search-engine-pe.sipr.ucl.ac.be/valodoc/)
+
+This website allows you to search for trainings by different filters such as the date, organisers, types of trainings. The research engine is pretty straightforward so don’t hesitate to look for the trainings that can help you further develop your skills in an area of interest.   
+
+This site is part of Valodoc effort to accompany students before, during and after doctoral school. It gathers information about what exactly a PhD journey is, the administrative procedures needed to enrol, as well as tool to help guide through the PhD and support for 	finding a career path after the graduation. Do not hesitate to check it out! 
+
+# Heads up!  
+
+For the trainings to be efficient a limited number of seats are available for each session. Additionally, as mentioned above, these trainings are not only dedicated to PhD students. If you have a training that you wish to take sign up for it as soon as it opens to make sure to have a saved seat. Another possibility is to register on a waiting list and be called if a cancellation occurs. Trainings are planned ahead the academic year so you won’t have multiple new trainings coming up often during the semester.  
+
+Some trainings are only available in French, so don’t forget to check the language of the session! 
+
+# Contact 
+
+Do you have any questions? Suggestions?  
+
+Heard of interesting trainings internal or external to UCLouvain?  
+
+Want to give a feedback about a training you recently had?  
+
+Do you have a training that you’d love to have but can’t find a seat available?   
+
+Or just want to share your enthusiasm about Skill Up?  
+
+Don’t hesitate to contact us!
 
 # Recent posts about trainings
 
