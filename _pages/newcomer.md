@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Newcomes
+title: Newcomer
 permalink: /newcomer/
 ---
 
-Here are listed some useful info for newly arrived PhDs.
+

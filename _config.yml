@@ -38,7 +38,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: ""
+      url: "mailto:deduve-phdstudents@uclouvain.be"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: ""

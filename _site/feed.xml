@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-31T12:56:33+02:00</updated><id>/feed.xml</id><title type="html">de Duve PhD students’ Society</title><subtitle></subtitle><author><name>de Duve PhD Students' Society</name></author><entry><title type="html">How to pitch</title><link href="/jekyll/update/2021/05/04/how_to_pitch.html" rel="alternate" type="text/html" title="How to pitch" /><published>2021-05-04T00:00:00+02:00</published><updated>2021-05-04T00:00:00+02:00</updated><id>/jekyll/update/2021/05/04/how_to_pitch</id><content type="html" xml:base="/jekyll/update/2021/05/04/how_to_pitch.html">&lt;p&gt;This post is a brief summary of the workshop held during the virtual 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-01T16:23:27+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">de Duve PhD students’ Society</title><subtitle></subtitle><author><name>de Duve PhD Students' Society</name></author><entry><title type="html">How to pitch</title><link href="http://localhost:4000/jekyll/update/2021/02/22/how_to_pitch.html" rel="alternate" type="text/html" title="How to pitch" /><published>2021-02-22T00:00:00+01:00</published><updated>2021-02-22T00:00:00+01:00</updated><id>http://localhost:4000/jekyll/update/2021/02/22/how_to_pitch</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/02/22/how_to_pitch.html">&lt;p&gt;This post is a brief summary of the workshop held during the virtual 
 FORUM PRO 2021. The workshop was given by Camille Wuidar (UpSkill) and
 Guillaume Thieffry (UCLouvain). There are three main pillars that 
 allow for an efficient pitch:&lt;/p&gt;
@@ -11,76 +11,57 @@ allow for an efficient pitch:&lt;/p&gt;
 
 &lt;p&gt;An efficient speech should not last longer than 2 minutes, that’s the
 absolute maximum! Also, keep in mind that at most 30 % of your speech
-will be effectively received by your audience.&lt;/p&gt;
+will be effectively received by your audience so avoid too many details
+and go to the point.&lt;/p&gt;
 
 &lt;h2 id=&quot;form&quot;&gt;Form&lt;/h2&gt;
 
-&lt;h2 id=&quot;content&quot;&gt;Content&lt;/h2&gt;
-
-&lt;h2 id=&quot;presentation&quot;&gt;Presentation&lt;/h2&gt;</content><author><name>Chris Vanderaa</name></author><category term="jekyll" /><category term="update" /><category term="training" /><summary type="html">This post is a brief summary of the workshop held during the virtual FORUM PRO 2021. The workshop was given by Camille Wuidar (UpSkill) and Guillaume Thieffry (UCLouvain). There are three main pillars that allow for an efficient pitch:</summary></entry><entry><title type="html">SMCS - Data visualisation and advanced tools in R</title><link href="/jekyll/update/2021/05/04/SMCS_data_vis_R.html" rel="alternate" type="text/html" title="SMCS - Data visualisation and advanced tools in R" /><published>2021-05-04T00:00:00+02:00</published><updated>2021-05-04T00:00:00+02:00</updated><id>/jekyll/update/2021/05/04/SMCS_data_vis_R</id><content type="html" xml:base="/jekyll/update/2021/05/04/SMCS_data_vis_R.html">&lt;p&gt;The R language is a computing environment and a very flexible and rich
-progamming language used for statistical data analysis. It’s a free 
-and open source software that is regularly enriched with new libraries
-of functions provided by users. In particular, everyone can create a 
-package.&lt;/p&gt;
-
-&lt;p&gt;This training is offered by the &lt;strong&gt;SMCS&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;objectives&quot;&gt;Objectives&lt;/h2&gt;
-
-&lt;p&gt;At the end of this training, the participant will be familiar with
-different data visualisation tools in R. He will also learn how to
-efficiently reproduce the same analysis and how to include R outputs 
-in a document (pdf, word…).&lt;/p&gt;
-
-&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
-
-&lt;p&gt;A basic knowledge of R is required (cf. the first day of the training 
-hereafter): &lt;em&gt;Introduction to data analysis with R&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;content&quot;&gt;Content&lt;/h2&gt;
+&lt;p&gt;The structure of your speech is very importante. You can focus your
+audience’ attention on at most 3 topics and those topics should have 
+clear links and should lead to an emotional response. There are 3
+major framework that can help you link your different topics:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Efficient data visualisation : R base graphics and ggplot2&lt;/li&gt;
-  &lt;li&gt;Efficient programmation : loops and functions&lt;/li&gt;
-  &lt;li&gt;Reporting&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;timeline&lt;/strong&gt;: make use of temporal structure in your speach, like
+past, present and future. But watch out to not fall into a boring 
+chronological enumeration.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Thematic&lt;/strong&gt; structure: focus on 3 themes that you’ll list in your 
+intro. For instance, you could focus on three different roles you 
+played in your previous job or study track.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Plan of action&lt;/strong&gt;: speak as if your were developing a new project
+and point out 3 issues that you could contribute to solve.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+&lt;p&gt;Of course, you could mix those different frameworks. The key point is 
+that your rely on three pillars that should be easy to remember!&lt;/p&gt;
 
-&lt;p&gt;Online through TEAMS&lt;/p&gt;</content><author><name>Chris Vanderaa</name></author><category term="jekyll" /><category term="update" /><category term="training" /><summary type="html">The R language is a computing environment and a very flexible and rich progamming language used for statistical data analysis. It’s a free and open source software that is regularly enriched with new libraries of functions provided by users. In particular, everyone can create a package.</summary></entry><entry><title type="html">de Duve PhD day 2021</title><link href="/jekyll/update/2021/05/03/PhD_day.html" rel="alternate" type="text/html" title="de Duve PhD day 2021" /><published>2021-05-03T00:00:00+02:00</published><updated>2021-05-03T00:00:00+02:00</updated><id>/jekyll/update/2021/05/03/PhD_day</id><content type="html" xml:base="/jekyll/update/2021/05/03/PhD_day.html">&lt;p&gt;The PhD day of the de Duve Institute is an event created by the 
-students for the students and more precisely by the de Duve students’ 
-society. The concept is that during one day all the PhD students 
-gather and have the opportunity to present their work to their peers 
-through a poster or a presentation session.&lt;/p&gt;
+&lt;h2 id=&quot;content&quot;&gt;Content&lt;/h2&gt;
 
-&lt;p&gt;Our objective is that the de Duve Institute becomes a united 
-scientific community in the next years, and this starts with the PhD 
-Day ! Even though the event will finally be online, we hope to provide
-a nice environment for sharing research projects and connecting with 
-other PhD students as well as to feed the scientific minds with 
-various interesting scientific topics and stimulating discussions.&lt;/p&gt;
+&lt;p&gt;The content of pitch is divided in 4 points:&lt;/p&gt;
 
-&lt;p&gt;The date to save in your calendar is the &lt;strong&gt;26th of May 2021&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The &lt;strong&gt;catch&lt;/strong&gt;: the first step is to grasp the attention of your 
+target and put him in the context of your speach. For instance, 
+could approach someone with an anecdote or an interesting scientific
+fact, or an intriguing question.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;presentatio&lt;/strong&gt;: briefly describe yourself in 2-3 sentence, that’s
+very short so make sure to include only relevant information.&lt;/li&gt;
+  &lt;li&gt;Make use of the &lt;strong&gt;3-topic framework&lt;/strong&gt;. You should be practical and
+include for instance some examples.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;conclusion&lt;/strong&gt;: tell what is your objective and how it can 
+profit to your audience.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;poster-session&quot;&gt;Poster session&lt;/h2&gt;
+&lt;h2 id=&quot;presentation&quot;&gt;Presentation&lt;/h2&gt;
 
-&lt;p&gt;Second year students have the responsibility to participate to the 
-poster session! In brief, they are being asked to create a poster about 
-their research project and to expose it during the morning session of 
-this event. The PI, Post-Doc and other PhD students will have the
-opportunity to take a look and ask questions or more details about the
-project.&lt;/p&gt;
+&lt;p&gt;Having first impression is inevitable, so make sure your audience has 
+a good first impression of you. This impression is already settles 
+during the 4 x 20 rules:&lt;/p&gt;
 
-&lt;p&gt;As for the organization, we ask second year students to send us the 
-abstract of their poster for the 15th of May (max 1 page) as well as 
-the ppt of it for the 21st of May to Juliette Vanderroost 
-(juliette.vanderroost@uclouvain.be). We also ask to send the ppt of 
-the poster for the 21st of May, as well as a 2 min recording that
-introduces the student and their research work and make other 
-participants want to take a closer look at the poster. This super 
-short introducing speech should not be a detailed explanation, but 
-rather a trailer / teasing to try to get the audience’s attention.&lt;/p&gt;
-
-&lt;h2 id=&quot;talk-sessions&quot;&gt;Talk sessions&lt;/h2&gt;
-
-&lt;p&gt;TBA&lt;/p&gt;</content><author><name>Chris Vanderaa</name></author><category term="jekyll" /><category term="update" /><category term="event" /><summary type="html">The PhD day of the de Duve Institute is an event created by the students for the students and more precisely by the de Duve students’ society. The concept is that during one day all the PhD students gather and have the opportunity to present their work to their peers through a poster or a presentation session.</summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;20 first words. Words represent 10% of the impact of your pitch.&lt;/li&gt;
+  &lt;li&gt;20 first gestures (35% of the total impact).&lt;/li&gt;
+  &lt;li&gt;20 cm of the visage. Pay attention to your gaze, smile, facial 
+expression, that’s 55% of the impact of your pitch.&lt;/li&gt;
+  &lt;li&gt;20 first seconds.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Chris Vanderaa</name></author><category term="jekyll" /><category term="update" /><category term="training" /><summary type="html">This post is a brief summary of the workshop held during the virtual FORUM PRO 2021. The workshop was given by Camille Wuidar (UpSkill) and Guillaume Thieffry (UCLouvain). There are three main pillars that allow for an efficient pitch:</summary></entry></feed>
