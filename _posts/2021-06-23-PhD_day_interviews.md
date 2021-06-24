@@ -41,6 +41,8 @@ cancer. As a microbiologist, it is sometimes hard to follow a
 presentation when you are not familiar with the topic. I therefore
 spent effort simplifying the core concepts of my field. 
  
+![slide_jovana]({{site.baseurl}}/images/posts/2021-06-18_Slide_Jovana.png)
+
 Jovana came up with very interesting tricks when we asked her why her
 presentation has been elected best presentation of the PhD day 2021. 
 Her main advice is that she always starts her presentation with 3 key
@@ -83,7 +85,7 @@ spectrometry-based single-cell proteomics.
 research is happening in our institute. I am amazed by the variety of
 topics that our institute is working on. 
 
-[]({{site.baseurl}}/images/posts/2021-06-18_Poster_Chris.png)
+![]({{site.baseurl}}/images/posts/2021-06-18_Poster_Chris.png)
 
 When we asked Chris why his poster made the difference, he gave us two
 reasons that he believed could have influenced the votes. First, he 
