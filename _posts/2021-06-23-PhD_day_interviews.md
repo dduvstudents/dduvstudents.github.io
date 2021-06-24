@@ -2,11 +2,11 @@
 title: "Tips and tricks from the PhD day 2021 winners"
 date: '2021-06-23'
 categories: jekyll update
-tags: training tips&tricks communication
+tags: training event tips&tricks communication
 layout: single
 author_profile: yes
 author: skillup
-contributors: Anna Diaco, Christophe Vanderaa and Jovana Kalicević
+contributors: Anna Diaco, Christophe Vanderaa and Jovana Kaljević
 item_date: '2021-06-23'
 ---
 
@@ -38,7 +38,7 @@ cancer. As a microbiologist, it is sometimes hard to follow a
 presentation when you are not familiar with the topic. I therefore
 spent effort simplifying the core concepts of my field. 
  
-![slide_jovana]({{site.baseurl}}/images/posts/2021-06-18_Slide_Jovana.png)
+<img style = "border:2px solid #555;" src="{{site.baseurl}}/images/posts/2021-06-18_Slide_Jovana.png">
 
 Jovana came up with very interesting tricks when we asked her why her
 presentation has been elected best presentation of the PhD day 2021. 
@@ -82,7 +82,7 @@ spectrometry-based single-cell proteomics.
 research is happening in our institute. I am amazed by the variety of
 topics that our institute is working on. 
 
-![]({{site.baseurl}}/images/posts/2021-06-18_Poster_Chris.png)
+<img style = "border:2px solid #555;" src="{{site.baseurl}}/images/posts/2021-06-18_Poster_Chris.png">
 
 When we asked Chris why his poster made the difference, he gave us two
 reasons that he believed could have influenced the votes. First, he 
