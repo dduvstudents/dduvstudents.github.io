@@ -30,7 +30,8 @@ layout: default
           {% include page__meta.html %}
         </header>
       {% endunless %}
-
+      
+      
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
@@ -40,6 +41,11 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+
+        {% if page.contributors %}
+          <p style="color:grey;">by {{page.contributors}}</p>
+        {% endif %}
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

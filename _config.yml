@@ -66,14 +66,21 @@ include:
 # their entries' file path in the `include:` list.
 #
 exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
   - Gemfile
   - Gemfile.lock
   - .Rproj.user
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false # true
+      share: true
+      related: false
+

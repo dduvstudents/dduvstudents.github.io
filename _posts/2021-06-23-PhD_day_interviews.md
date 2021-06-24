@@ -1,17 +1,14 @@
 ---
 title: "Tips and tricks from the PhD day 2021 winners"
 date: '2021-06-23'
-output: pdf_document
 categories: jekyll update
-tags: training
+tags: training tips&tricks communication
 layout: single
 author_profile: yes
 author: skillup
+contributors: Anna Diaco, Christophe Vanderaa and Jovana Kalicević
 item_date: '2021-06-23'
 ---
-
-<p style="color:grey;">by Anna Diaco, Christophe Vanderaa and Jovana Kalicević
-</p>
 
 Another [PhD students’ day]({{site.baseurl}}/events/#phd-day) has come
 to an end! This [year’s edition ](https://www.deduveinstitute.be/about/news-events/phd-student-day-may-26-2021-talks-poster-presentations) 
