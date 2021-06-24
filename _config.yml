@@ -71,6 +71,7 @@ exclude:
 #   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - .Rproj.user
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/

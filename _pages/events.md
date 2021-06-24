@@ -12,7 +12,15 @@ informal and focus on having fun with the other PhD students.
 
 # Serious events
 
-## PhD day
+## PhD students' day
+
+The PhD students' day is an event created by the students for the 
+students and more precisely by the de Duve students' society. The 
+concept is that during one day all the PhD students gather and have 
+the opportunity to present their work to their peers through a poster 
+or a presentation session. It's a great opportunity to learn about the
+research from the neighbouring labs and to connect with our fellow
+PhD students.
 
 {% include image-gallery.html folder="/images/phd_day" %}
 

@@ -3,12 +3,9 @@ layout: single
 title: SkillUp!
 permalink: /trainings/
 toc: true
-
 header:
   overlay_color: "white"
   overlay_filter: "0.4"
-  overlay_image: "images/logos/skillup_logo.png"
-  
 excerpt: ""
 ---
 
@@ -20,6 +17,10 @@ It serves as a student communication hub with the following objectives:
 trainings organised by UCLouvain and outside organisations   
 - Encourage students to attend trainings for a great science 
 - Give additional tips and tricks to go further
+
+<div style="width: 20%">
+    <img src="{{site.baseurl}}/images/logos/skillup_logo.svg"/>
+</div>
 
 # Motivation
 
@@ -35,9 +36,7 @@ So yes, communication is in the air.
 
 All of the above activities are we call softskills. They are the way we essentially work with ourselves and the people around us.  and these are necessary to be developed in order to achieve great science.   
 
-*Do you need extra motivation?* students that enrolled in the doctoral program as of 2017 need at least 5 ECTS of transferable skills included in their general section of ‘Trainings’ to be completed in order to get the 60 ECTS to graduate: 
-
-(https://uclouvain.be/fr/secteurs/sss/repartition-des-60-credits-de-formation-doctorale.html).  
+*Do you need extra motivation?* students that enrolled in the doctoral program as of 2017 need at least 5 ECTS of transferable skills included in their general section of ‘Trainings’ to be completed in order to get the [60 ECTS to graduate](https://uclouvain.be/fr/secteurs/sss/repartition-des-60-credits-de-formation-doctorale.html).  
 
 # Training organisations  
 
@@ -47,7 +46,7 @@ All of the above activities are we call softskills. They are the way we essentia
 
 [SMCS](https://uclouvain.be/en/research-institutes/lidam/smcs.html) (Statistical Methodology and Computing Service): aims to support researchers in their projects from a statistical point of view. They offer training courses on different programming languages (R, Python..) …), statistical methods (data visualisation, data analysis,..). They also provide consulting services: you have a question about your analysis? You want to perform a highthroughput experiment and have questions about your design? Don’t hesitate to contact them! 
 
-Human resources administration: organise regularly trainings that target organisation, communication and management skills. PhD students are members of the UCLouvain staff so you are more than welcome to participate!  
+[Human resources administration](https://intranet.uclouvain.be/en/myucl/working/se-former.html): organise regularly trainings that target organisation, communication and management skills. PhD students are members of the UCLouvain staff so you are more than welcome to participate!  
 
 [Louvain Learning Lab](https://uclouvain.be/en/study/lll): is dedicated to professors and teaching assistants who wish to develop great teaching methods to animate their course (in person or virtual courses), mentoring through their practical courses etc.   
 
