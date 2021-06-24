@@ -15,7 +15,7 @@ to an end! This [year’s edition ](https://www.deduveinstitute.be/about/news-ev
 was quite special since it has been gone virtual in the context of the
 COVID19 pandemic. Despite of the remote 2021 edition, this day was a 
 very nice and successfully organized event by the PhD students of the
-de Duve institute. Jovana Kalicević and Christophe Vanderaa won best
+de Duve institute. Jovana Kaljević and Christophe Vanderaa won best
 talk and best poster prize respectively! Congrats to you guys!
 
 One of the main objective of [SkillUp!]({{site.baseurl}}/trainings/)
