@@ -1,18 +1,25 @@
 ---
-layout:         single
-title:          How to pitch
-date:           2021-02-22
-item_date:      2021-02-22
-categories:     jekyll update 
-tags:           training
-author:         Chris Vanderaa
+layout: single
+title: How to pitch
+date: 2021-02-22
+item_date: 2021-02-22
+categories: jekyll update 
+tags: training
+author: skillup
 author_profile: true
+contributors: Christophe Vanderaa
 ---
 
-This post is a brief summary of the workshop held during the virtual 
-FORUM PRO 2021. The workshop was given by Camille Wuidar (UpSkill) and
-Guillaume Thieffry (UCLouvain). There are three main pillars that 
-allow for an efficient pitch: 
+In this post, I share with you my notes about how to create an 
+efficient pitch. I took those during the workshop that was held at the
+[virtual FORUM PRO 2021](https://uclouvain.be/fr/decouvrir/eureka/forumpro.html).
+It was given (in French) by Camille Wuidar (UpSkill) and Guillaume 
+Thieffry (UCLouvain). I really learned a lot during this 1 hour 
+training, I hope you'll do as well with this 2 minute read!
+
+# Introduction
+
+There are three main pillars that allow for an efficient pitch: 
 
 - The form
 - The content

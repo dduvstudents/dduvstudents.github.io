@@ -2,11 +2,8 @@
 layout: single
 title: SkillUp!
 permalink: /trainings/
+author_profile: true
 toc: true
-header:
-  overlay_color: "white"
-  overlay_filter: "0.4"
-excerpt: ""
 ---
 
 SkillUp! is a project created by the PhD student organisation
@@ -78,7 +75,8 @@ Do you have a training that you’d love to have but can’t find a seat availab
 
 Or just want to share your enthusiasm about Skill Up?  
 
-Don’t hesitate to contact us!
+<a href="{{site.baseurl}}/contact/" class="btn btn--success btn--large">Contact us!</a>
+
 
 # Recent posts about trainings
 
