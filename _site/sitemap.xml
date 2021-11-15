@@ -26,4 +26,8 @@
 <url>
 <loc>http://localhost:4000/trainings/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/files/2021_PhD_welcome_day.pdf</loc>
+<lastmod>2021-11-15T13:40:51+01:00</lastmod>
+</url>
 </urlset>
